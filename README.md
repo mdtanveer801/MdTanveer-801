@@ -56,7 +56,7 @@ Text-to-speech and translation app using Google TTS and Python.
 
 ## 📄 Resume
 
-📥 [Download My Resume (PDF)](your-resume-link)
+📥 [Download My Resume (PDF)](https://github.com/mdtanveer801/MdTanveer-801/blob/757243518885325d21ad9b0e6c2dedc35c1411c4/Tanveer%20Ahmed%20Resume.pdf)
 
 ---
 
