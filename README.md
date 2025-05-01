@@ -28,7 +28,7 @@ Predicts if a customer is likely to leave a telecom service.
 ### 💉 Diabetes Risk Prediction App
 Streamlit app for predicting the likelihood of diabetes based on health inputs.
 - 📘 Tech: `Scikit-learn`, `Streamlit`, `Python`
-- 🔗 [Live Demo](your-streamlit-link) | [GitHub](your-github-link)
+- 🔗 [Live Demo](your-streamlit-link) | [GitHub](https://github.com/mdtanveer801/Diabetes-Prediction-Project-with-Streamlit-App)
 
 ---
 
