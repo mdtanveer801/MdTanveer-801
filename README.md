@@ -42,7 +42,7 @@ Computer Vision-based number plate detection using OCR.
 ### 🌐 GTTS Language Translator
 Text-to-speech and translation app using Google TTS and Python.
 - 📘 Tech: `GTTS`, `Flask`, `Python`
-- 🔗 [GitHub](your-github-link)
+- 🔗 [GitHub](https://github.com/mdtanveer801/Language-translator-using-GTTS-and-Streamlit-App/commit/59a8d9eb29bbba36d32bafd2e7a64adbf6960c70)
 
 ---
 
