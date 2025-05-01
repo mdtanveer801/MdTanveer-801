@@ -35,7 +35,7 @@ Streamlit app for predicting the likelihood of diabetes based on health inputs.
 ### 🔍 Automatic Number Plate Recognition
 Computer Vision-based number plate detection using OCR.
 - 📘 Tech: `OpenCV`, `Tesseract OCR`, `Image Processing`
-- 🔗 [GitHub](your-github-link)
+- 🔗 [GitHub](https://github.com/mdtanveer801/Detecting-a-vehicle-s-number-plate-Using-Pytesseract-OCR-library)
 
 ---
 
