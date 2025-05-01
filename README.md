@@ -11,7 +11,7 @@
 
 I'm a passionate Data Science fresher with a strong foundation in machine learning, model deployment, and AI applications. My focus is on building real-world, end-to-end data solutions using tools like **Scikit-learn**, **XGBoost**, **TensorFlow**, **Streamlit**, and **Azure ML**.
 
-I’ve created and deployed multiple ML apps using **Streamlit**, and I’m actively exploring **MLOps tools like MLflow and Kubeflow** to scale models in production. I enjoy blending technical skills with practical problem-solving to create useful, user-friendly solutions.
+I’ve created and deployed multiple ML apps using **Streamlit**, and I’m actively exploring **Data Analytics** to scale models in production. I enjoy blending technical skills with practical problem-solving to create useful, user-friendly solutions.
 
 ---
 
